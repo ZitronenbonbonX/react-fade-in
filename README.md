@@ -1,4 +1,9 @@
-# react-fade-in
+# nodes-fade-in
+
+## Fork
+This is a fork of [react-fade-in](https://github.com/gkaemmer/react-fade-in) only with updated dependencies.
+
+## Overview
 
 Dead-simple and opinionated component to fade in an element's children.
 
@@ -6,14 +11,14 @@ Dead-simple and opinionated component to fade in an element's children.
 
 ## Installation
 
-`npm install react-fade-in`
+`npm install nodes-fade-in`
 
 ## Usage
 
-`react-fade-in`
+`nodes-fade-in`
 
 ```
-import FadeIn from 'react-fade-in';
+import FadeIn from 'nodes-fade-in';
 // ...
 <FadeIn>
   <div>Element 1</div>
