@@ -1,6 +1,6 @@
 {
   "name": "nodes-fade-in",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "description": "Super-easy fade-in animation for react children, compatible with React 19",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
